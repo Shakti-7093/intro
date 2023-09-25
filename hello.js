@@ -1,1 +1,1 @@
-const pair = "extraodinaire";
+console.log("Hello!")
